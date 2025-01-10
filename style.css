@@ -134,7 +134,7 @@ header{
 
 .hero{
     height: 115vh;
-    background-image: url("Assets/hero-image.jpg");
+    background-image: url("assets/hero-image.jpg");
     background-position: center center;
     background-size: cover;
     background-repeat: no-repeat;
